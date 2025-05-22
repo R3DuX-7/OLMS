@@ -76,7 +76,7 @@ Jeet Singh Bais
 🎓 Roll No: 22COA2BCA0039
 
 Project Report Link - https://drive.google.com/file/d/1kF6Ufr-i2rg7Jx7GwbpHGrxM7Ajcynfw/view?usp=sharing 
-Project PPt Link- https://docs.google.com/presentation/d/1YkMCvzjKWqSHT0tjU8-F8AsC_C2WuyVF/edit?usp=sharing&ouid=105084111787398362081&rtpof=true&sd=true
+Project PPT Link- https://docs.google.com/presentation/d/1YkMCvzjKWqSHT0tjU8-F8AsC_C2WuyVF/edit?usp=sharing&ouid=105084111787398362081&rtpof=true&sd=true
 
 📜 License
 This project is for educational purposes only. No commercial use permitted without permission.
