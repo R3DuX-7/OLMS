@@ -33,3 +33,47 @@ A full-stack web application for managing library operations, built using **Pyth
 1. **Clone this repo**
    ```bash
    git clone https://github.com/R3DuX-7/OLMS.git
+
+2. Create & activate a virtual environment
+
+python -m venv venv
+source venv/bin/activate   # Linux/Mac
+venv\Scripts\activate      # Windows
+
+Install requirements
+pip install -r requirements.txt
+
+4.Set up the MySQL database
+Create a new database (e.g., olms_db)
+Configure your database credentials in settings.py
+
+5.Run migrations
+python manage.py makemigrations
+python manage.py migrate
+
+6.Start the server
+python manage.py runserver
+
+7.Login
+Visit http://127.0.0.1:8000
+Use the Django admin panel to create users or use the registration module
+
+📌 Future Enhancements
+📲 Mobile responsive design
+🧠 Book recommendation engine using AI
+📤 Email/SMS notifications
+🧾 Automated fine calculations
+🔒 CAPTCHA & Forgot password
+📶 Cloud deployment
+
+👨‍💻 Developed By
+Akshat Gangrade
+📧 akshat2215@gmail.com
+🎓 Roll No: 22COA2BCA0087
+
+Jeet Singh Bais
+📧 jeetsinghbais7@gmail.com
+🎓 Roll No: 22COA2BCA0039
+
+📜 License
+This project is for educational purposes only. No commercial use permitted without permission.
